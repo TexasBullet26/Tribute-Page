@@ -1,0 +1,29 @@
+body,h1,h2,h3,h4,h5 {
+  font-family: "Raleway", sans-serif;
+}
+
+h3 {
+  color: rgba(14, 14, 13, 0.95);
+  text-shadow: 1px 1px grey;
+}
+
+header {
+  background-color: rgba(14, 14, 13, 0.8);
+  color: rgba(211, 217, 221, 0.92);
+  border-bottom: 3px solid grey;
+  text-shadow: 3px 2px black;
+}
+
+img {
+  width: 700px;
+}
+
+footer {
+  background-color: rgba(14, 14, 13, 0.8);
+  color: rgba(211, 217, 221, 0.92);
+  border-top: 3px solid grey;
+}
+
+a:hover {
+  color: darkblue;
+}
