@@ -16,6 +16,19 @@ header {
 
 img {
   width: 700px;
+  width: 100%;
+}
+
+blockquote {
+  text-align: left;
+  font-size: 14px;
+}
+
+li {
+  font-size: 12px;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 3px;
 }
 
 footer {
